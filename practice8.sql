@@ -18,4 +18,3 @@ select concat('woof', reverse('woof'));
 
 select concat(author_fname, reverse(author_fname) ) from books;
 
-select 
