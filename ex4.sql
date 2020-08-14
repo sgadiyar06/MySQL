@@ -20,4 +20,3 @@ username VARCHAR(20),
 created_at TIMESTAMP DEFAULT NOW()
 );
 
-ins
