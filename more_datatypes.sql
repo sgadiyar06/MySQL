@@ -1,4 +1,3 @@
-/* continue from practice5.sql file */
 use practice;
 show tables;
 
